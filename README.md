@@ -1,2 +1,4 @@
 # hello-world
-my first github repository
+hello stalker!
+
+welcome to my github account, i love web development.
